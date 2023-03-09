@@ -10,9 +10,8 @@ print('=====================================================================\n')
 
 print("\n*Recuerda*: Para parar el programa pulsa la tecla q\n")
 
-eco = float(input("\n¿Cúal quieres que sea el intervalo entre clics medido en segundos?: "))
+eco = float(input("\n¿Cúal quieres que sea el intervalo entre clics? Medido en segundos: "))
 def pulsa(tecla):
-	print('Se ha pulsado la tecla ' + str(tecla))
 	if tecla == keyboard.KeyCode.from_char('q'):
 		return False
 
