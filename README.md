@@ -5,6 +5,8 @@ The code is not optimized at all, and it does not have a graphical interface, it
 
 # Important
 
-You can stop the script pressing the “q” key
+You can stop the script pressing the “q” key.
 
 This script allows you to choose the interval (measured in seconds) between clicks.
+
+Here There is two version, one in English and the other is in Spanish.
