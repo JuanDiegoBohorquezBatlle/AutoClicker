@@ -1,5 +1,5 @@
 # AutoClicker
-This is a simple auto clicker, programmed in python 3.0, use the pynput libraries; I leave next his documentation: https://pynput.readthedocs.io/en/latest/search.html?q=
+This is a simple auto clicker, programmed in python 3.0, use the pynput libraries; I leave next his full documentation: https://pynput.readthedocs.io/en/latest/search.html?q= and how download the library: https://pypi.org/project/pynput/
 
 The code is not optimized at all, and it does not have a graphical interface, it uses the terminal to communicate with the user.
 
