@@ -25,7 +25,7 @@ if T == 2:
     A = E.upper()
     list1 = ["S", "SEGUNDO", "SEGUNDOS", "SECONDS"]
     list2 = ["MS", "MILISEGUNDO", "MILISEGUNDOS",
-             "MILISECONDS", "MILSEGUNDO", "MILSEGUNDO"]
+             "MILISECONDS", "MILSEGUNDO", "MILSEGUNDOS"]
 
     while LOOP:
         if A in list1:
