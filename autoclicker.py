@@ -42,7 +42,7 @@ if T == 2:
                 C = 0.001
         else:
             print(
-                "El fromato de tiempo introducido es incorrecto, porfavor vuelva a intertarlo")
+                "El formato de tiempo introducido es incorrecto, porfavor vuelva a intertarlo")
 
         CONT = f"C = {str(C)}"
 
