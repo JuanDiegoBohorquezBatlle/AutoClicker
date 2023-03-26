@@ -17,7 +17,7 @@ print('\n=====================================================================')
 print('=======Auto Clicker; Developed Juan Diego Bohorquez Batlle==========')
 print('=====================================================================\n')
 
-print("\n*Remember*: To stop the program press the key q\n")
+print("\n*Remember*: To stop the program press the key q\n            Or to paused use the space key")
 
 T = int(input(
     "\nIf you want use the previous adjusts press 1, if you want new adjust press 2: "))
