@@ -82,6 +82,8 @@ def on_press(tecla):
 escuchador = keyboard.Listener(on_press)
 escuchador.start()
 
+input('presiona ENTER cuando quieras empezar')
+
 while escuchador.is_alive():
     if paused == False:
         mouse.click(Button.left)
